@@ -6,8 +6,6 @@
 </div>
 
 
-<<!--
-
 - 🔭 I’m currently working on a GitHub Project
 - 🌱 I’m currently learning how to create my own "GitHub" profile 
 - 👯 I’m looking to collaborate on everything 
