@@ -5,7 +5,7 @@
 </div>
 <br>
 
-I am currently training to become a Web Developer at the Digital Career Institute.
+I am currently undertaking a Web Development program at the Digital Career Institute.
 
 I am open to collaborating on projects or developing small applications and websites. With extensive experience in team settings, I pride myself on being easy to work with and highly collaborative.
 
