@@ -9,8 +9,6 @@
 
 I am currently undertaking a Web Development program at the Digital Career Institute.
 
-I am open to collaborating on projects or developing small applications and websites. With extensive experience in team settings, I pride myself on being easy to work with and highly collaborative.
-
 My current areas of study include:
 
 - Linux/Terminal, Git & GitHub, UX/UI
@@ -18,9 +16,7 @@ My current areas of study include:
 - MERN Stack (MongoDB, ExpressJS, ReactJS, NodeJS)
 - Single Page Applications
 
-
-
-
+I would greatly appreciate any advice or assistance you can offer to enhance my knowledge and coding skills.
 
 </br>
 
