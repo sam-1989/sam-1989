@@ -7,7 +7,7 @@
 </div>
 <br>
 
-I am currently undertaking a Web Development program at the Digital Career Institute.
+I am currently undertaking a Web Development program at the Digital Career Institute (DCI).
 
 My current areas of study include:
 
