@@ -25,26 +25,6 @@ I would greatly appreciate any advice or assistance that can help me further ref
 
 --------------------------------------------------
 
-Ich habe meinen Webentwicklungskurs am Digital Career Institute (DCI) erfolgreich abgeschlossen.
-
-Während meines Kurses lag mein Schwerpunkt auf folgenden Bereichen:
-	•	Linux/Terminal, Git & GitHub, UX/UI
-	•	HTML, CSS und JavaScript
-	•	MERN Stack (MongoDB, ExpressJS, ReactJS, NodeJS)
-	•	Single Page Applications
-
-Ich freue mich sehr über jeden Rat oder jede Unterstützung, um meine Fähigkeiten weiter zu verfeinern und meine Karriere als Webentwickler voranzubringen.
-
-</br>
-
-🌱 Ich lerne gerade, mein GitHub-Profil zu verbessern.
-👯 Offen für die Zusammenarbeit an spannenden Projekten.
-🤔 Auf der Suche nach Mentoring und Ratschlägen.
-💬 Frag mich gern zu Themen rund um Webentwicklung.
-⚡ Fun Fact: Ich schreibe besseren Code nach einem guten Nickerchen – Debugging findet sogar in meinen Träumen statt!
-
-
-
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
