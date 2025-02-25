@@ -17,10 +17,10 @@ I would greatly appreciate any advice or assistance that can help me further ref
 
 </br>
 
-🌱 Learning to enhance my GitHub profile.
-👯 Open to collaborating on exciting projects.
-🤔 Looking for mentorship and advice.
-💬 Ask me about web development.
+🌱 Learning to enhance my GitHub profile. </br>
+👯 Open to collaborating on exciting projects. </br>
+🤔 Looking for mentorship and advice. </br>
+💬 Ask me about web development. </br>
 ⚡ Fun fact: I write better code after a good nap—debugging in my dreams!
 
 --------------------------------------------------
