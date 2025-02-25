@@ -5,7 +5,7 @@
 </div>
 <br>
 
-I have successfully completed my Web Development course at the Digital Career Institute (DCI).
+I have recently and successfully completed my Web Development course at the Digital Career Institute (DCI).
 
 During my course, I focused on the following areas:
 	•	Linux/Terminal, Git & GitHub, UX/UI
